@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="GuessNum1A2B/GuessNum1A2B.csproj" Id="84b29cfb-caea-498d-a7a6-ed63b92c8847" />
+  <Project Path="Replacer01/Replacer/Replacer.csproj" />
+  <Project Path="StringCounter/StringCounter.csproj" Id="607beb99-2e74-4188-ba37-c01d75071f6d" />
+  <Project Path="TempConverter/TempConverter.csproj" />
+</Solution>
